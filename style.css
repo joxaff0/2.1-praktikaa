@@ -1,0 +1,149 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container1{
+    max-width: 650px;
+    height: 786px;
+    margin: 0 auto;
+    margin-top: 150px;
+    background-color: rgba(222, 219, 219, 1);
+    border-radius: 50px;
+    
+}
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+   
+}
+.asosiy{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 45px;
+
+}
+.uzb{
+    display: flex;
+    align-items: center;
+}
+.rasm{
+    margin-right: 15px;
+}
+.of{
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 700;
+    padding-right: 20px;
+}
+.oferta{
+    display: flex;
+    align-items: center;
+    color: rgba(240, 64, 15, 1);
+    justify-content: space-around;
+    padding-top: 66px;
+}
+.oi{
+    display: flex;
+}
+.space{
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 58.09px;
+    color: rgba(14, 13, 93, 1);
+    text-align: center;
+    margin-top: 127px;
+}
+.oq{
+    font-family: Inter;
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 33.89px;
+
+
+}
+.otaona{
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+    gap: 82px;
+    text-align: center;
+    margin-left: 130px;
+
+}
+.ot{
+    font-family: Inter;
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 33.89px; 
+    color: rgba(117, 117, 117, 1);
+}
+.input1{
+    width: 533px;
+    height: 70px;
+    border-radius: 20px;
+    border: 1px rgba(117, 117, 117, 0.19) solid;
+    margin: 0 auto;
+    margin-top: 67px;
+}
+.modme{
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29.05px; 
+    margin-left: 60px;
+    margin-top: 20px;
+    border: none;
+    background-color: rgba(222, 219, 219, 1);
+}
+.input2{
+    width: 533px;
+    height: 70px;
+    border-radius: 20px;
+    border: 1px rgba(117, 117, 117, 0.19) solid;
+    margin: 0 auto;
+    margin-top: 67px;
+    display: flex;
+    justify-content: space-around; 
+    align-items: center;
+}
+.eye{
+    width: 28px;
+    height: 28px;
+}
+.modme1{
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29.05px; 
+    margin-left: 10px;
+    margin-top: 10px;
+    border: none;
+    background-color: rgba(222, 219, 219, 1);
+}
+.qr{
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29.05px;
+    color: rgba(0, 0, 0, 0.64);
+    text-align: center;
+    margin-top: 10px;
+}
+.pot{
+    width: 202px;
+    height: 67px;
+    border-radius: 20px;
+    background-color: rgba(246, 158, 134, 1);
+    border: none;
+    margin-left: 390px;
+    margin-top: 20px;
+}
+.pot>span{
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29.05px;
+    color: rgba(255, 255, 255, 1);
+}
